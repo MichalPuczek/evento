@@ -1,4 +1,4 @@
-# Pet Daycare
+# Evento
 
 Evento is a plateforme that will help you to find events around you.
 
